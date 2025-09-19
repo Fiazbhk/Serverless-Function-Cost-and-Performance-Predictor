@@ -1,0 +1,15 @@
+*.env
+*.venv
+*.temp
+venv_creation.log
+uv
+uv.lock
+uvx
+env
+env.fish
+__pycache__
+*.pyc
+.git
+*.md
+*.mp3
+ml_agent_response.mp3
